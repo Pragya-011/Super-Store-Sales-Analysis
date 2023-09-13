@@ -29,9 +29,9 @@ In a highly competitive retail environment, where data-driven decisions can make
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **[`Data`](Data/SuperStore_Sales_Dataset.csv)** | Examine the CSV file and Excel file to view the raw data  |
-| **[`Python File`](Python/CSV%20File/Super_Store_Sales_Dataset.ipynb)** | Review the Jupyter Notebook for data cleaning process and EDA |
-| **[`Dashboard`](Dashboard/Super_Store%20Sales%20Dashboard.pbix)** | Access PowerBI file containing interactive dashboards and summarized insights |
+| **[`Data`](Data)** | Examine the CSV file and Excel file to view the raw data  |
+| **[`Python File`](Python%20File)** | Review the Jupyter Notebook for data cleaning process and EDA |
+| **[`Dashboard`](Dashboard)** | Access PowerBI file containing interactive dashboards and summarized insights |
 
 <br>
 ## <h2 class="section-heading" id="data-cleaning-and-preprocessing"><a href="your_link_here"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" height="50"></a> Data Cleaning and Preprocessing</h2> Data Cleaning and Preprocessing
