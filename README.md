@@ -29,14 +29,14 @@ In a highly competitive retail environment, where data-driven decisions can make
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **[`Data`](Data/SuperStoreSales_Dataset.csv)** | Examine the CSV file and Excel file to view the raw data  |
+| **[`Data`](Data/SuperStore_Sales_Dataset.csv)** | Examine the CSV file and Excel file to view the raw data  |
 | **[`Python File`](Python/CSV%20File/Super_Store_Sales_Dataset.ipynb)** | Review the Jupyter Notebook for data cleaning process and EDA |
 | **[`Dashboard`](Dashboard/Super_Store%20Sales%20Dashboard.pbix)** | Access PowerBI file containing interactive dashboards and summarized insights |
 
 <br>
 ## <h2 class="section-heading" id="data-cleaning-and-preprocessing"><a href="your_link_here"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" height="50"></a> Data Cleaning and Preprocessing</h2> Data Cleaning and Preprocessing
 
- - The [`Data`](Data/SuperStoreSales_Dataset.csv) directory contains the raw dataset used for this analysis in CSV and Excel files.
+ - The [`Data`](Data/SuperStore_Sales_Dataset.csv) directory contains the raw dataset used for this analysis in CSV and Excel files.
    
  - The dataset contains historical sales and profit data for two years i.e 2019 and 2020, customer information, product information, regional data, and order information. The data was carefully sourced from reliable online resources to ensure data accuracy and reliability.
    
