@@ -14,7 +14,7 @@ The **Super-Store-Sales-Analysis** project offers a comprehensive analysis of a 
 - [`Problems Statement`](#objective)
 - [`User's Manual`](#usage)
 - [`Data Cleaning and Preprocessing`](#data-cleaning-and-preprocessing)
-- [`EDA and Insights`](#EDA-and-insights)
+- [`Exploratory Data Analysis and Insights`](#EDA-and-insights)
 - [`PowerBI Dashboard`](#powerbi-dashboard)
 - [`Challenges and Learnings`](#challenges_and_learnings)
 - [`Future Scope`](#future_scope)
@@ -45,9 +45,9 @@ In a highly competitive retail environment, where data-driven decisions can make
 
 <br>
 
-## <h2 class="section-heading" id="EDA-and-insights"><a href="your_link_here"><img src="https://www.advantagegroup.com/wp-content/uploads/2020/12/How-AR-Works-2.gif" width="50" height="50"></a> EDA and Insights</h2>
+## <h2 class="section-heading" id="EDA-and-insights"><a href="your_link_here"><img src="https://www.advantagegroup.com/wp-content/uploads/2020/12/How-AR-Works-2.gif" width="50" height="50"></a> Exploratory Data Analysis and Insights</h2>
 
-- The [`Python File`](Python%20File) directory contains the Exploratory Data Analysis. Key metrics and Visualizations, such as graphs and charts were created using Matplotlib and Seaborn to represent key findings in an informative and engaging manner.
+- The [`Python File`](Python%20File) directory contains the Exploratory Data Analysis in ".ipynb" format. Key metrics and Visualizations, such as graphs and charts were created using Matplotlib and Seaborn to represent key findings in an informative and engaging manner.
 <br>
 
 The `Sales Trends Analysis` revealed significant spikes, particularly during holiday seasons towards the end of the year. These valuable insights shed light on the importance of effective inventory management during peak seasons and also offer valuable guidance for crafting targeted and impactful marketing strategies.
