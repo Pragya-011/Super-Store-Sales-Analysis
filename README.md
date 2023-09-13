@@ -34,19 +34,19 @@ In a highly competitive retail environment, where data-driven decisions can make
 | **[`Dashboard`](Dashboard)** | Access PowerBI file containing interactive dashboards and summarized insights |
 
 <br>
-## <h2 class="section-heading" id="data-cleaning-and-preprocessing"><a href="your_link_here"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" height="50"></a> Data Cleaning and Preprocessing</h2> Data Cleaning and Preprocessing
+## <h2 class="section-heading" id="data-cleaning-and-preprocessing"><a href="your_link_here"><img src="https://userimages.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" height="50"></a> Data Cleaning and Preprocessing</h2> Data Cleaning and Preprocessing
 
- - The [`Data`](Data/SuperStore_Sales_Dataset.csv) directory contains the raw dataset used for this analysis in CSV and Excel files.
+ - The [`Data`](Data) directory contains the raw dataset used for this analysis in CSV and Excel files.
    
  - The dataset contains historical sales and profit data for two years i.e 2019 and 2020, customer information, product information, regional data, and order information. The data was carefully sourced from reliable online resources to ensure data accuracy and reliability.
    
- - Thorough data cleaning and preprocessing were executed through Python libraries and Power Query. This entailed rectifying data inconsistencies, managing missing data points, and dealing with outlier values. Furthermore, we applied data transformations to prepare the data for analysis ensuring data integrity. This data cleaning and preprocessing has been documented in the [`Python File`](Python/CSV%20File/Super_Store_Sales_Dataset.ipynb) directory in ".ipynb" format.
+ - Thorough data cleaning and preprocessing were executed through Python libraries and Power Query. This entailed rectifying data inconsistencies, managing missing data points, and dealing with outlier values. Furthermore, we applied data transformations to prepare the data for analysis ensuring data integrity. This data cleaning and preprocessing has been documented in the [`Python File`](Python%20File) directory in ".ipynb" format.
 
 <br>
 
 ## <h2 class="section-heading" id="EDA-and-insights"><a href="your_link_here"><img src="https://www.advantagegroup.com/wp-content/uploads/2020/12/How-AR-Works-2.gif" width="50" height="50"></a> EDA and Insights</h2>
 
-- The [`Python File`](Python/CSV%20File/Super_Store_Sales_Dataset.ipynb) directory contains the Exploratory Data Analysis. Key metrics and Visualizations, such as graphs and charts were created using Matplotlib and Seaborn to represent key findings in an informative and engaging manner.
+- The [`Python File`](Python%20File) directory contains the Exploratory Data Analysis. Key metrics and Visualizations, such as graphs and charts were created using Matplotlib and Seaborn to represent key findings in an informative and engaging manner.
 <br>
 
 The `Sales Trends Analysis` revealed significant spikes, particularly during holiday seasons towards the end of the year. These valuable insights shed light on the importance of effective inventory management during peak seasons and also offer valuable guidance for crafting targeted and impactful marketing strategies.
@@ -82,7 +82,7 @@ The `Product Performance Highlights` unveiled top-performing products across cat
 <br>
 
 ## <h2 class="section-heading" id="powerbi-dashboard"><a href="your_link_here"><img src="https://media.tenor.com/Tw7ociOZPzkAAAAM/spreadsheet-animated.gif" width="50" height="50"></a> PowerBI Dashboard</h2>
-The project concludes with an engaging Power BI dashboard. This interface is designed to be user-friendly, offering dynamic visualizations and interactive features for effortless data exploration. Users have the flexibility to apply real-time filters, enabling a targeted analysis of specific metrics and facilitating deeper insights. The [`Dashboard`](Dashboard/Super_Store%20Sales%20Dashboard.pbix) directory contains the Power BI dashboard in ".pbix" format.
+The project concludes with an engaging Power BI dashboard. This interface is designed to be user-friendly, offering dynamic visualizations and interactive features for effortless data exploration. Users have the flexibility to apply real-time filters, enabling a targeted analysis of specific metrics and facilitating deeper insights. The [`Dashboard`](Dashboard) directory contains the Power BI dashboard in ".pbix" format.
 
 <br>
 <p align="center"><img src="https://github.com/Pragya-011/Doctor-Fee-Prediction/assets/118491345/138b7293-8050-4382-a495-2b8b80bae202" ></p>
